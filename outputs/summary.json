@@ -1,0 +1,373 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+  "data_source": "YouTube Data API, video ID irVNGjRFZGk",
+  "comments_analyzed": 958,
+  "unique_bow_terms": 1684,
+  "unique_tfidf_terms": 3000,
+  "positive_comments": 338,
+  "neutral_comments": 300,
+  "negative_comments": 320,
+  "top_bow_words": [
+    {
+      "word": "doom",
+      "frequency": 169
+    },
+    {
+      "word": "thor",
+      "frequency": 158
+    },
+    {
+      "word": "movie",
+      "frequency": 107
+    },
+    {
+      "word": "like",
+      "frequency": 84
+    },
+    {
+      "word": "avenger",
+      "frequency": 72
+    },
+    {
+      "word": "doomsday",
+      "frequency": 69
+    },
+    {
+      "word": "steve",
+      "frequency": 60
+    },
+    {
+      "word": "not",
+      "frequency": 57
+    },
+    {
+      "word": "loki",
+      "frequency": 54
+    },
+    {
+      "word": "im",
+      "frequency": 49
+    }
+  ],
+  "top_tfidf_terms": [
+    {
+      "term": "doom",
+      "mean_tfidf": 0.03269874383569444
+    },
+    {
+      "term": "thor",
+      "mean_tfidf": 0.027634826127519063
+    },
+    {
+      "term": "movie",
+      "mean_tfidf": 0.022734375514165704
+    },
+    {
+      "term": "avenger",
+      "mean_tfidf": 0.018005601494778645
+    },
+    {
+      "term": "loki",
+      "mean_tfidf": 0.017375730936895997
+    },
+    {
+      "term": "doomsday",
+      "mean_tfidf": 0.016950007627097086
+    },
+    {
+      "term": "steve",
+      "mean_tfidf": 0.01563234914477534
+    },
+    {
+      "term": "wait",
+      "mean_tfidf": 0.015062932207240236
+    },
+    {
+      "term": "like",
+      "mean_tfidf": 0.01381370834152169
+    },
+    {
+      "term": "dr",
+      "mean_tfidf": 0.012049009986893271
+    }
+  ],
+  "top_ranked_tags": [
+    {
+      "term": "doom",
+      "mean_tfidf": 0.03269874383569444,
+      "term_clean": "doom",
+      "rank": 1,
+      "stage": "Ranked"
+    },
+    {
+      "term": "thor",
+      "mean_tfidf": 0.027634826127519063,
+      "term_clean": "thor",
+      "rank": 2,
+      "stage": "Ranked"
+    },
+    {
+      "term": "avenger",
+      "mean_tfidf": 0.018005601494778645,
+      "term_clean": "avenger",
+      "rank": 3,
+      "stage": "Ranked"
+    },
+    {
+      "term": "loki",
+      "mean_tfidf": 0.017375730936895997,
+      "term_clean": "loki",
+      "rank": 4,
+      "stage": "Ranked"
+    },
+    {
+      "term": "doomsday",
+      "mean_tfidf": 0.016950007627097086,
+      "term_clean": "doomsday",
+      "rank": 5,
+      "stage": "Ranked"
+    },
+    {
+      "term": "steve",
+      "mean_tfidf": 0.01563234914477534,
+      "term_clean": "steve",
+      "rank": 6,
+      "stage": "Ranked"
+    },
+    {
+      "term": "wait",
+      "mean_tfidf": 0.015062932207240236,
+      "term_clean": "wait",
+      "rank": 7,
+      "stage": "Ranked"
+    },
+    {
+      "term": "dr",
+      "mean_tfidf": 0.012049009986893271,
+      "term_clean": "dr",
+      "rank": 8,
+      "stage": "Ranked"
+    },
+    {
+      "term": "not",
+      "mean_tfidf": 0.011742886128152705,
+      "term_clean": "not",
+      "rank": 9,
+      "stage": "Ranked"
+    },
+    {
+      "term": "im",
+      "mean_tfidf": 0.01129264451126624,
+      "term_clean": "im",
+      "rank": 10,
+      "stage": "Ranked"
+    },
+    {
+      "term": "dr doom",
+      "mean_tfidf": 0.011108189981322951,
+      "term_clean": "dr doom",
+      "rank": 11,
+      "stage": "Ranked"
+    },
+    {
+      "term": "captain",
+      "mean_tfidf": 0.010619495052925722,
+      "term_clean": "captain",
+      "rank": 12,
+      "stage": "Ranked"
+    },
+    {
+      "term": "gonna",
+      "mean_tfidf": 0.009782839518434908,
+      "term_clean": "gonna",
+      "rank": 13,
+      "stage": "Ranked"
+    },
+    {
+      "term": "cap",
+      "mean_tfidf": 0.00962840312472336,
+      "term_clean": "cap",
+      "rank": 14,
+      "stage": "Ranked"
+    },
+    {
+      "term": "peak",
+      "mean_tfidf": 0.008970668801472034,
+      "term_clean": "peak",
+      "rank": 15,
+      "stage": "Ranked"
+    }
+  ],
+  "refined_tags": [
+    {
+      "original_tag": "doom",
+      "refined_tag": "doctor doom",
+      "score": 0.03269874383569444,
+      "rank": 1
+    },
+    {
+      "original_tag": "thor",
+      "refined_tag": "thor",
+      "score": 0.027634826127519063,
+      "rank": 2
+    },
+    {
+      "original_tag": "avenger",
+      "refined_tag": "avenger",
+      "score": 0.018005601494778645,
+      "rank": 3
+    },
+    {
+      "original_tag": "loki",
+      "refined_tag": "loki",
+      "score": 0.017375730936895997,
+      "rank": 4
+    },
+    {
+      "original_tag": "doomsday",
+      "refined_tag": "doomsday",
+      "score": 0.016950007627097086,
+      "rank": 5
+    },
+    {
+      "original_tag": "steve",
+      "refined_tag": "steve",
+      "score": 0.01563234914477534,
+      "rank": 6
+    },
+    {
+      "original_tag": "wait",
+      "refined_tag": "wait",
+      "score": 0.015062932207240236,
+      "rank": 7
+    },
+    {
+      "original_tag": "dr",
+      "refined_tag": "dr",
+      "score": 0.012049009986893271,
+      "rank": 8
+    },
+    {
+      "original_tag": "not",
+      "refined_tag": "not",
+      "score": 0.011742886128152705,
+      "rank": 9
+    },
+    {
+      "original_tag": "im",
+      "refined_tag": "im",
+      "score": 0.01129264451126624,
+      "rank": 10
+    },
+    {
+      "original_tag": "captain",
+      "refined_tag": "captain",
+      "score": 0.010619495052925722,
+      "rank": 11
+    },
+    {
+      "original_tag": "gonna",
+      "refined_tag": "gonna",
+      "score": 0.009782839518434908,
+      "rank": 12
+    },
+    {
+      "original_tag": "cap",
+      "refined_tag": "cap",
+      "score": 0.00962840312472336,
+      "rank": 13
+    },
+    {
+      "original_tag": "peak",
+      "refined_tag": "peak",
+      "score": 0.008970668801472034,
+      "rank": 14
+    },
+    {
+      "original_tag": "marvel",
+      "refined_tag": "marvel",
+      "score": 0.008872065244007854,
+      "rank": 15
+    },
+    {
+      "original_tag": "day",
+      "refined_tag": "day",
+      "score": 0.007932359814955705,
+      "rank": 16
+    },
+    {
+      "original_tag": "need",
+      "refined_tag": "need",
+      "score": 0.007392752705387688,
+      "rank": 17
+    },
+    {
+      "original_tag": "finger",
+      "refined_tag": "finger",
+      "score": 0.007303071660272377,
+      "rank": 18
+    },
+    {
+      "original_tag": "possible",
+      "refined_tag": "possible",
+      "score": 0.00705244601223666,
+      "rank": 19
+    },
+    {
+      "original_tag": "man",
+      "refined_tag": "man",
+      "score": 0.006689617919527253,
+      "rank": 20
+    }
+  ],
+  "enriched_tags": [
+    {
+      "enriched_tag": "Plot and story expectations",
+      "supporting_keywords": "plot, story, storyline, expect, theory, rumor, ending",
+      "matched_keyword_count": 7,
+      "rank": 1
+    },
+    {
+      "enriched_tag": "Casting and character returns",
+      "supporting_keywords": "rdj, downey, evans, cast, return, character",
+      "matched_keyword_count": 6,
+      "rank": 2
+    },
+    {
+      "enriched_tag": "Fan excitement and expectations",
+      "supporting_keywords": "hype, excited, exciting, hope, can't wait, looking forward",
+      "matched_keyword_count": 6,
+      "rank": 3
+    },
+    {
+      "enriched_tag": "Nostalgia and MCU history",
+      "supporting_keywords": "nostalgia, nostalgic, endgame, infinity war, marvel, mcu",
+      "matched_keyword_count": 6,
+      "rank": 4
+    },
+    {
+      "enriched_tag": "Action and power moments",
+      "supporting_keywords": "action, fight, thor, power, battle",
+      "matched_keyword_count": 5,
+      "rank": 5
+    },
+    {
+      "enriched_tag": "Doctor Doom and villains",
+      "supporting_keywords": "doom, villain, mask, armor",
+      "matched_keyword_count": 4,
+      "rank": 6
+    },
+    {
+      "enriched_tag": "Visual effects and cinematography",
+      "supporting_keywords": "cgi, effect, scene, look",
+      "matched_keyword_count": 4,
+      "rank": 7
+    },
+    {
+      "enriched_tag": "Criticism and disappointment",
+      "supporting_keywords": "bad",
+      "matched_keyword_count": 1,
+      "rank": 8
+    }
+  ]
+}
